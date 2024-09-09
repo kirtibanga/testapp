@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="timeFromCreateToActivate=5000" db_object_id="807964641d6cda50d31d8a130b676aa8" label="testtablesep6" max_length="40" name="x_snc_testappsep06_testtablesep6" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Name" max_length="40" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Status" max_length="40" name="status" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <controller_preset/>
+        <includes/>
+        <macroponent display_value="Search Page">b52c6ce4836cda5009775fcf88731fdc</macroponent>
+        <name>handle_facet_click</name>
+        <preset/>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[function handler({api, event, imports, helpers}) {
+		const props = api.context.props;
+    helpers.navigate.to('search', {
+			searchTerm: props.searchTerm,
+			searchContextConfigId: props.searchContextConfigId
+    },
+		{
+			searchFilters: props.searchFilters,
+			facetFilters: event.payload.selectedFilters,
+			disableSpellCheck: props.disableSpellCheck
+		});
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-09-06 13:40:09</sys_created_on>
+        <sys_id>f12c6ce4d26cda50814517251b39e2d3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>handle_facet_click</sys_name>
+        <sys_package display_value="TestAppSep06" source="x_snc_testappsep06">693824241d6cda50d31d8a130b676a6c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TestAppSep06">693824241d6cda50d31d8a130b676a6c</sys_scope>
+        <sys_update_name>sys_ux_client_script_f12c6ce4d26cda50814517251b39e2d3</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-09-06 13:40:09</sys_updated_on>
+        <target/>
+        <type/>
+    </sys_ux_client_script>
+</record_update>

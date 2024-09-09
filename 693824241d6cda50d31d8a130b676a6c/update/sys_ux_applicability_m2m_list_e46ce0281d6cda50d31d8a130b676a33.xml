@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_list">
+    <sys_ux_applicability_m2m_list action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability display_value="Audience for app testappsep06workspace">5c6ca0281d6cda50d31d8a130b676ae2</applicability>
+        <list display_value="All">1c6ce0281d6cda50d31d8a130b676a18</list>
+        <order>100</order>
+        <sys_class_name>sys_ux_applicability_m2m_list</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-06 13:41:06</sys_created_on>
+        <sys_id>e46ce0281d6cda50d31d8a130b676a33</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="TestAppSep06" source="x_snc_testappsep06">693824241d6cda50d31d8a130b676a6c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TestAppSep06">693824241d6cda50d31d8a130b676a6c</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_list_e46ce0281d6cda50d31d8a130b676a33</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-06 13:41:06</sys_updated_on>
+    </sys_ux_applicability_m2m_list>
+</record_update>

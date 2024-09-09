@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Custom Portal App Config">252c6ce41d6cda50d31d8a130b676aa4</app_config>
+        <description/>
+        <extension_point/>
+        <fields/>
+        <icon/>
+        <name>Task rejected</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>task_rejected</route_type>
+        <screen_type display_value="Task rejected">bd2c6ce41c6cda50a24635c1b025dfe3</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-09-06 13:40:09</sys_created_on>
+        <sys_id>b52c6ce4566cda504b34278f2733bde2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Task rejected</sys_name>
+        <sys_package display_value="TestAppSep06" source="x_snc_testappsep06">693824241d6cda50d31d8a130b676a6c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TestAppSep06">693824241d6cda50d31d8a130b676a6c</sys_scope>
+        <sys_update_name>sys_ux_app_route_b52c6ce4566cda504b34278f2733bde2</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-09-06 13:40:09</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=b52c6ce4566cda504b34278f2733bde2"/>
+</record_update>

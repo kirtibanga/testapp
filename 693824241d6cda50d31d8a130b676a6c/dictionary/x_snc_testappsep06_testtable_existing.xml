@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="timeFromCreateToActivate=5000" db_object_id="854d20681d6cda50d31d8a130b676a29" extends="task" label="testtable_existing" max_length="40" name="x_snc_testappsep06_testtable_existing" type="collection"/>
+</database>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_source">
+    <sys_search_source action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition table="x_snc_testappsep06_testtablesep6">active=true</condition>
+        <group/>
+        <name>TestAppSep06workspace - x_snc_testappsep06_testtab</name>
+        <roles/>
+        <source_table>x_snc_testappsep06_testtablesep6</source_table>
+        <sys_class_name>sys_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-06 13:41:06</sys_created_on>
+        <sys_id>6c6ce0281d6cda50d31d8a130b676a4b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TestAppSep06workspace - x_snc_testappsep06_testtab</sys_name>
+        <sys_package display_value="TestAppSep06" source="x_snc_testappsep06">693824241d6cda50d31d8a130b676a6c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TestAppSep06">693824241d6cda50d31d8a130b676a6c</sys_scope>
+        <sys_update_name>sys_search_source_6c6ce0281d6cda50d31d8a130b676a4b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-06 13:41:06</sys_updated_on>
+    </sys_search_source>
+</record_update>

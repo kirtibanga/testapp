@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_panel>1b5ca0284b6cda50bc596f97121b6d66</admin_panel>
+        <admin_panel_table>sys_ux_app_config</admin_panel_table>
+        <auth_routes/>
+        <page/>
+        <parent_app display_value="Unified Navigation app shell">c86a62e2c7022010099a308dc7c26022</parent_app>
+        <path>testappsep06workspace</path>
+        <root_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</root_macroponent>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-06 13:41:02</sys_created_on>
+        <sys_id>575ca0289b6cda507d18784c5e3f1466</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TestAppSep06workspace</sys_name>
+        <sys_package display_value="TestAppSep06" source="x_snc_testappsep06">693824241d6cda50d31d8a130b676a6c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TestAppSep06">693824241d6cda50d31d8a130b676a6c</sys_scope>
+        <sys_update_name>sys_ux_page_registry_575ca0289b6cda507d18784c5e3f1466</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-06 13:41:02</sys_updated_on>
+        <title>TestAppSep06workspace</title>
+    </sys_ux_page_registry>
+</record_update>
