@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="f25449b1043f9610142aacfd562402d2" extends="task" label="task_emp" max_length="40" name="x_snc_testappfeb13_task_emp" text_index="true" type="collection"/>
+</database>

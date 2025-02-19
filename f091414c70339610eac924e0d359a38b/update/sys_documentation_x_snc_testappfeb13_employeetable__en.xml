@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="EmployeeTable" language="en" table="x_snc_testappfeb13_employeetable">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>EmployeeTable</label>
+            <language>en</language>
+            <name>x_snc_testappfeb13_employeetable</name>
+            <plural>EmployeeTables</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-18 07:57:10</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>EmployeeTable</sys_name>
+            <sys_package display_value="TestAppFeb13" source="x_snc_testappfeb13">f091414c70339610eac924e0d359a38b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="TestAppFeb13">f091414c70339610eac924e0d359a38b</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_testappfeb13_employeetable__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-18 07:57:10</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

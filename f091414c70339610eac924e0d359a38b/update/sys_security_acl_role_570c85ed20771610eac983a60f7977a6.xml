@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-18 07:57:27</sys_created_on>
+        <sys_id>570c85ed20771610eac983a60f7977a6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_testappfeb13_employeetable.x_snc_testappfeb13.admin</sys_name>
+        <sys_package display_value="TestAppFeb13" source="x_snc_testappfeb13">f091414c70339610eac924e0d359a38b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TestAppFeb13">f091414c70339610eac924e0d359a38b</sys_scope>
+        <sys_security_acl display_value="x_snc_testappfeb13_employeetable">530c85ed20771610eac983a60f7977a3</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_570c85ed20771610eac983a60f7977a6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-18 07:57:27</sys_updated_on>
+        <sys_user_role display_value="x_snc_testappfeb13.admin" name="x_snc_testappfeb13.admin">b091414c70339610eac924e0d359a393</sys_user_role>
+    </sys_security_acl_role>
+</record_update>

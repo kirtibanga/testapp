@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_etl_entity">
+    <sys_rte_eb_etl_entity action="DELETE">
+        <child_id_field/>
+        <name>IHUB_TARGET_TEMP_x_snc_testappfeb13_task_emp</name>
+        <parent_entity/>
+        <parent_id_field/>
+        <path>Temp_x_snc_testappfeb13_task_emp</path>
+        <run_business_rules>false</run_business_rules>
+        <synchronize_inserts>false</synchronize_inserts>
+        <sys_class_name>sys_rte_eb_etl_entity</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-19 02:02:33</sys_created_on>
+        <sys_id>9e640db1043f9610142aacfd56240255</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>IHUB_TARGET_TEMP_x_snc_testappfeb13_task_emp</sys_name>
+        <sys_package display_value="TestAppFeb13" source="x_snc_testappfeb13">f091414c70339610eac924e0d359a38b</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="task_emp Data Mapping_etl_ihub">21648531043f9610142aacfd562402f4</sys_rte_eb_definition>
+        <sys_scope display_value="TestAppFeb13">f091414c70339610eac924e0d359a38b</sys_scope>
+        <sys_update_name>sys_rte_eb_etl_entity_9e640db1043f9610142aacfd56240255</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-19 02:02:33</sys_updated_on>
+        <table/>
+    </sys_rte_eb_etl_entity>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="TestAppFeb13">f091414c70339610eac924e0d359a38b</application>
+        <file_path/>
+        <instance_id>619f942947ef529c21f3e676706d43c8</instance_id>
+        <instance_name>cidtest1leemergcp01</instance_name>
+        <name>sys_rte_eb_etl_entity_9e640db1043f9610142aacfd56240255</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_etl_entity"><sys_rte_eb_etl_entity action="INSERT_OR_UPDATE"><child_id_field/><name>IHUB_TARGET_TEMP_x_snc_testappfeb13_task_emp</name><parent_entity/><parent_id_field/><path>Temp_x_snc_testappfeb13_task_emp</path><run_business_rules>false</run_business_rules><synchronize_inserts>false</synchronize_inserts><sys_class_name>sys_rte_eb_etl_entity</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-02-19 02:02:33</sys_created_on><sys_id>9e640db1043f9610142aacfd56240255</sys_id><sys_mod_count>0</sys_mod_count><sys_name>IHUB_TARGET_TEMP_x_snc_testappfeb13_task_emp</sys_name><sys_package display_value="TestAppFeb13" source="x_snc_testappfeb13">f091414c70339610eac924e0d359a38b</sys_package><sys_policy/><sys_rte_eb_definition display_value="task_emp Data Mapping_etl_ihub">21648531043f9610142aacfd562402f4</sys_rte_eb_definition><sys_scope display_value="TestAppFeb13">f091414c70339610eac924e0d359a38b</sys_scope><sys_update_name>sys_rte_eb_etl_entity_9e640db1043f9610142aacfd56240255</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-02-19 02:02:33</sys_updated_on><table/></sys_rte_eb_etl_entity></record_update>]]></payload>
+        <payload_hash>-1557407995</payload_hash>
+        <record_name>IHUB_TARGET_TEMP_x_snc_testappfeb13_task_emp</record_name>
+        <reverted_from/>
+        <source>7491414c70339610eac924e0d359a38f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-19 02:02:33</sys_created_on>
+        <sys_id>d6640db1043f9610142aacfd56240270</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1951bf14ad30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-19 02:02:33</sys_updated_on>
+        <type>ETL Entity</type>
+        <update_guid>9a640db17b3f961017175ef5f19c476f</update_guid>
+        <update_guid_history>9a640db17b3f961017175ef5f19c476f:-1557407995</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-19 02:06:47</sys_created_on>
+        <sys_db_object display_value="" name="sys_rte_eb_etl_entity">sys_rte_eb_etl_entity</sys_db_object>
+        <sys_id>2367d1a0d78242b0b1c286a636b12ef9</sys_id>
+        <sys_metadata>9e640db1043f9610142aacfd56240255</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>IHUB_TARGET_TEMP_x_snc_testappfeb13_task_emp</sys_name>
+        <sys_package display_value="TestAppFeb13" source="x_snc_testappfeb13">f091414c70339610eac924e0d359a38b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="TestAppFeb13">f091414c70339610eac924e0d359a38b</sys_scope>
+        <sys_scope_delete display_value="">264cd47614974a78b9d5c6441b2250d1</sys_scope_delete>
+        <sys_update_name>sys_rte_eb_etl_entity_9e640db1043f9610142aacfd56240255</sys_update_name>
+        <sys_update_version display_value="sys_rte_eb_etl_entity_9e640db1043f9610142aacfd56240255">d6640db1043f9610142aacfd56240270</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-19 02:06:47</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

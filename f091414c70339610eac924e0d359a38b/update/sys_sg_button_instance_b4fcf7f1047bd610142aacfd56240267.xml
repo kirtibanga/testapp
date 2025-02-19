@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Delete Swipe (test123)">20fcf7f1047bd610142aacfd56240265</button>
+        <color_theme/>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon/>
+        <label>Delete</label>
+        <location>leading_swipe</location>
+        <name>Delete</name>
+        <order/>
+        <parent>a0fcf7f1047bd610142aacfd56240262</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-19 15:28:48</sys_created_on>
+        <sys_id>b4fcf7f1047bd610142aacfd56240267</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Delete</sys_name>
+        <sys_package display_value="TestAppFeb13" source="x_snc_testappfeb13">f091414c70339610eac924e0d359a38b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TestAppFeb13">f091414c70339610eac924e0d359a38b</sys_scope>
+        <sys_update_name>sys_sg_button_instance_b4fcf7f1047bd610142aacfd56240267</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-19 15:28:48</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=b4fcf7f1047bd610142aacfd56240267"/>
+</record_update>

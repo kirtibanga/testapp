@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_tab">
+    <sys_sg_applet_launcher_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applet_launcher display_value="TestMobileApp">acfcb7f1047bd610142aacfd562402d6</applet_launcher>
+        <icon display_value="File">d0fcb7f1047bd610142aacfd562402d6</icon>
+        <label>TestMobileApp</label>
+        <sys_class_name>sys_sg_applet_launcher_tab</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-19 15:28:47</sys_created_on>
+        <sys_id>a0fcb7f1047bd610142aacfd562402d8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TestMobileApp</sys_name>
+        <sys_package display_value="TestAppFeb13" source="x_snc_testappfeb13">f091414c70339610eac924e0d359a38b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TestAppFeb13">f091414c70339610eac924e0d359a38b</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_tab_a0fcb7f1047bd610142aacfd562402d8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-19 15:28:47</sys_updated_on>
+    </sys_sg_applet_launcher_tab>
+</record_update>

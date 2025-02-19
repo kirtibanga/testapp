@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_ihub_integration_instance">
+    <sn_ihub_integration_instance action="INSERT_OR_UPDATE">
+        <description>Data mapping instance for table task_emp</description>
+        <integration_table>sys_data_source</integration_table>
+        <integration_type/>
+        <internal_name/>
+        <name>task_emp Data Mapping</name>
+        <record_id>c164c9b1043f9610142aacfd5624028f</record_id>
+        <sys_class_name>sn_ihub_integration_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-19 02:02:28</sys_created_on>
+        <sys_id>45644531043f9610142aacfd5624022c</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>task_emp Data Mapping</sys_name>
+        <sys_package display_value="TestAppFeb13" source="x_snc_testappfeb13">f091414c70339610eac924e0d359a38b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TestAppFeb13">f091414c70339610eac924e0d359a38b</sys_scope>
+        <sys_update_name>sn_ihub_integration_instance_45644531043f9610142aacfd5624022c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-19 02:02:28</sys_updated_on>
+    </sn_ihub_integration_instance>
+</record_update>

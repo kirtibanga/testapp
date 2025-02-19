@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_datasource">
+    <sys_ux_composite_data_m2m_datasource action="INSERT_OR_UPDATE">
+        <dataset display_value="Custom Portal Landing - My Requests Dataset">eca833bd523bd6108e6e6372217e60c4</dataset>
+        <datasource display_value="My Request - Incident datasource">a8a833bd3b3bd610c33a0eec16d02fc3</datasource>
+        <sys_class_name>sys_ux_composite_data_m2m_datasource</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-19 15:10:04</sys_created_on>
+        <sys_id>e4a833bdc73bd6104b1a96d61162eec3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="TestAppFeb13" source="x_snc_testappfeb13">f091414c70339610eac924e0d359a38b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TestAppFeb13">f091414c70339610eac924e0d359a38b</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_datasource_e4a833bdc73bd6104b1a96d61162eec3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-19 15:10:04</sys_updated_on>
+    </sys_ux_composite_data_m2m_datasource>
+</record_update>

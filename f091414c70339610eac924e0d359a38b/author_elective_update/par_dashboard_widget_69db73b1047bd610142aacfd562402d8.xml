@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="DELETE">
+        <canvas display_value="">e5db73b1047bd610142aacfd5624029a</canvas>
+        <component display_value="Heading">1f6e0643eca7a637e36bd7833549ec9e</component>
+        <component_props>{"variant":"header-primary","label":"Happening Now","wontWrap":false,"hasNoMargin":false,"level":"1","filterConfigurations":[],"noDebounce":"","contextMenuActions":[]}</component_props>
+        <h>3</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-19 15:23:57</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>69db73b1047bd610142aacfd562402d8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="TestAppFeb13" source="x_snc_testappfeb13">f091414c70339610eac924e0d359a38b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TestAppFeb13">f091414c70339610eac924e0d359a38b</sys_scope>
+        <sys_update_name>par_dashboard_widget_69db73b1047bd610142aacfd562402d8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-19 15:23:57</sys_updated_on>
+        <visualization/>
+        <w>47</w>
+        <widget_props/>
+        <x>0</x>
+        <y>0</y>
+    </par_dashboard_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="TestAppFeb13">f091414c70339610eac924e0d359a38b</application>
+        <file_path/>
+        <instance_id>619f942947ef529c21f3e676706d43c8</instance_id>
+        <instance_name>cidtest1leemergcp01</instance_name>
+        <name>par_dashboard_widget_69db73b1047bd610142aacfd562402d8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">e5db73b1047bd610142aacfd5624029a</canvas><component display_value="Heading">1f6e0643eca7a637e36bd7833549ec9e</component><component_props>{"variant":"header-primary","label":"Happening Now","wontWrap":false,"hasNoMargin":false,"level":"1","filterConfigurations":[],"noDebounce":"","contextMenuActions":[]}</component_props><h>3</h><name/><stored_component/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-02-19 15:23:57</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>69db73b1047bd610142aacfd562402d8</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="TestAppFeb13" source="x_snc_testappfeb13">f091414c70339610eac924e0d359a38b</sys_package><sys_policy/><sys_scope display_value="TestAppFeb13">f091414c70339610eac924e0d359a38b</sys_scope><sys_update_name>par_dashboard_widget_69db73b1047bd610142aacfd562402d8</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-02-19 15:23:57</sys_updated_on><visualization/><w>47</w><widget_props/><x>0</x><y>0</y></par_dashboard_widget></record_update>]]></payload>
+        <payload_hash>516515131</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>7491414c70339610eac924e0d359a38f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-19 15:23:57</sys_created_on>
+        <sys_id>29db73b1047bd610142aacfd562402da</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1951eceff1b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-19 15:23:57</sys_updated_on>
+        <type>PAR Dashboard Widget</type>
+        <update_guid>e9db73b1907bd61060e0fa8b1e3c92d9</update_guid>
+        <update_guid_history>e9db73b1907bd61060e0fa8b1e3c92d9:516515131</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">69dbb3b1047bd610142aacfd5624020c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-19 15:23:57</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_widget">par_dashboard_widget</sys_db_object>
+        <sys_id>0d0ea23bf8434ec894aefd9861fad040</sys_id>
+        <sys_metadata>69db73b1047bd610142aacfd562402d8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="TestAppFeb13" source="x_snc_testappfeb13">f091414c70339610eac924e0d359a38b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="TestAppFeb13">f091414c70339610eac924e0d359a38b</sys_scope>
+        <sys_scope_delete display_value="">264cd47614974a78b9d5c6441b2250d1</sys_scope_delete>
+        <sys_update_name>par_dashboard_widget_69db73b1047bd610142aacfd562402d8</sys_update_name>
+        <sys_update_version display_value="par_dashboard_widget_69db73b1047bd610142aacfd562402d8">29db73b1047bd610142aacfd562402da</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-19 15:23:57</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

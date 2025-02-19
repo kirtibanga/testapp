@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_datasource">
+    <ais_datasource action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <conflict>false</conflict>
+        <filter/>
+        <force_late_binding>false</force_late_binding>
+        <name>EmployeeTable Table</name>
+        <retention_policy/>
+        <source>x_snc_testappfeb13_employeetable</source>
+        <sys_class_name>ais_datasource</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-19 15:23:50</sys_created_on>
+        <sys_id>c8dbff71047bd610142aacfd5624027b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>EmployeeTable Table</sys_name>
+        <sys_package display_value="TestAppFeb13" source="x_snc_testappfeb13">f091414c70339610eac924e0d359a38b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TestAppFeb13">f091414c70339610eac924e0d359a38b</sys_scope>
+        <sys_update_name>ais_datasource_c8dbff71047bd610142aacfd5624027b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-19 15:23:50</sys_updated_on>
+        <type>internal</type>
+    </ais_datasource>
+</record_update>

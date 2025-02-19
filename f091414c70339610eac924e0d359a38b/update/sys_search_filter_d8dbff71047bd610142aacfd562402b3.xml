@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_filter">
+    <sys_search_filter action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <ais_search_source display_value="EmployeeTable">0cdbff71047bd610142aacfd56240295</ais_search_source>
+        <label>EmployeeTable</label>
+        <name>EmployeeTable</name>
+        <order>100</order>
+        <search_context_config display_value="TestAppFeb13 AI Search Configuration">d1cb3f714d7bd610ae2284a5857fd316</search_context_config>
+        <sys_class_name>sys_search_filter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-19 15:23:51</sys_created_on>
+        <sys_id>d8dbff71047bd610142aacfd562402b3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>EmployeeTable</sys_name>
+        <sys_package display_value="TestAppFeb13" source="x_snc_testappfeb13">f091414c70339610eac924e0d359a38b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TestAppFeb13">f091414c70339610eac924e0d359a38b</sys_scope>
+        <sys_update_name>sys_search_filter_d8dbff71047bd610142aacfd562402b3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-19 15:23:51</sys_updated_on>
+    </sys_search_filter>
+</record_update>
